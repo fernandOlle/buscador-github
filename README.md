@@ -1,4 +1,4 @@
 ### `npm install` 
-na pasta que tiver usado o clone 
+na pasta que tiver onde estiver o clone
 ### `npm start` 
-tbm na pasta que tiver usado o clone
+tbm na pasta onde estiver o clone
