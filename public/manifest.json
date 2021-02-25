@@ -1,0 +1,8 @@
+{
+  "short_name": "GitHub Finder",
+  "name": "GitHub Finder Sample",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
